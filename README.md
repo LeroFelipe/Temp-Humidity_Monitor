@@ -20,4 +20,4 @@ O protótipo de funcionamento do CD4511 está disponível no Tinkercad neste [li
 
  O projeto 3D da caixa foi criado no FreeCAD e usinado em uma CNC Router, utilizando madeira de 10mm e uma fresa de 3mm de diâmetro. O design está disponível no repositório.
  
- ![CNC](Image-3.png) ![capa](Image-2.png)
+ ![CNC](Image-3.png) ![capa](Image-2.png) ![FreeCAD](Image-4.png)
