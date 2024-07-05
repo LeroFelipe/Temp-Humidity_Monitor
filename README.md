@@ -15,7 +15,7 @@ Os componentes utilizados incluem:
 - 2x Transistores bc548;
 
 O protótipo de funcionamento do CD4511 está disponível no Tinkercad neste [link](https://www.tinkercad.com/things/7Z3mSi3R3jC-7segmultiplex).
-![Tinkercad](Tinkercad-Prototype.png)
+![Tinkercad](Tinkercad.png)
 
  O projeto 3D da caixa foi criado no FreeCAD e usinado em uma CNC Router, utilizando madeira de 10mm e uma fresa de 3mm de diâmetro. O design está disponível no repositório.
  
